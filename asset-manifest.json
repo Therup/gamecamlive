@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/gamecamlive/static/css/main.9ea5c57e.css",
-    "main.js": "/gamecamlive/static/js/main.7797fdb7.js",
+    "main.css": "/gamecamlive/static/css/main.5b9064cd.css",
+    "main.js": "/gamecamlive/static/js/main.564e32cf.js",
     "static/media/Gamecam_gif_1.gif": "/gamecamlive/static/media/Gamecam_gif_1.e8b53d314ac2e868e692.gif",
     "static/media/gamecam_g_logo.png": "/gamecamlive/static/media/gamecam_g_logo.df1158c6d3024d878a0f.png",
+    "static/media/shots_logo.png": "/gamecamlive/static/media/shots_logo.3e3f66a9efc3caf4ef58.png",
+    "static/media/heatmap_logo.png": "/gamecamlive/static/media/heatmap_logo.a1f1f72f0e422539a854.png",
+    "static/media/distance_logo.png": "/gamecamlive/static/media/distance_logo.aa3f135366c0da37aa21.png",
+    "static/media/errors_logo.png": "/gamecamlive/static/media/errors_logo.ff32312715d46e68ee85.png",
+    "static/media/zonemap_logo.png": "/gamecamlive/static/media/zonemap_logo.d3081e84e7943aee9053.png",
+    "static/media/transit_zone_logo.png": "/gamecamlive/static/media/transit_zone_logo.eacc67975c6685cad95d.png",
+    "static/media/gamecam_logo.png": "/gamecamlive/static/media/gamecam_logo.fc9ef9a265ef22257f82.png",
     "index.html": "/gamecamlive/index.html",
-    "main.9ea5c57e.css.map": "/gamecamlive/static/css/main.9ea5c57e.css.map",
-    "main.7797fdb7.js.map": "/gamecamlive/static/js/main.7797fdb7.js.map"
+    "main.5b9064cd.css.map": "/gamecamlive/static/css/main.5b9064cd.css.map",
+    "main.564e32cf.js.map": "/gamecamlive/static/js/main.564e32cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ea5c57e.css",
-    "static/js/main.7797fdb7.js"
+    "static/css/main.5b9064cd.css",
+    "static/js/main.564e32cf.js"
   ]
 }
