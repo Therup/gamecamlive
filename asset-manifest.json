@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gamecamlive/static/css/main.9ea5c57e.css",
+    "main.js": "/gamecamlive/static/js/main.72b2bb00.js",
+    "index.html": "/gamecamlive/index.html",
+    "main.9ea5c57e.css.map": "/gamecamlive/static/css/main.9ea5c57e.css.map",
+    "main.72b2bb00.js.map": "/gamecamlive/static/js/main.72b2bb00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea5c57e.css",
+    "static/js/main.72b2bb00.js"
+  ]
+}
