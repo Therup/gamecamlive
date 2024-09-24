@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import { CameraIcon } from "@heroicons/react/24/outline"; // Uppdaterad import
+import { CameraIcon } from "@heroicons/react/24/outline";
+import Logo from "../images/gamecam_g_logo.png";
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -13,7 +14,7 @@ const Navbar: React.FC = () => {
       <div className="flex justify-between items-center">
         {/* Logo */}
         <div>
-          <img src="/logo.png" alt="GameCamLive Logo" className="h-8" />
+          <img src={Logo} alt="GameCamLive Logo" className="h-8" />
         </div>
 
         {/* Navigation and Camera Icon Container */}
