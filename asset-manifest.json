@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/gamecamlive/static/css/main.9ea5c57e.css",
-    "main.js": "/gamecamlive/static/js/main.72b2bb00.js",
+    "main.js": "/gamecamlive/static/js/main.7797fdb7.js",
+    "static/media/Gamecam_gif_1.gif": "/gamecamlive/static/media/Gamecam_gif_1.e8b53d314ac2e868e692.gif",
+    "static/media/gamecam_g_logo.png": "/gamecamlive/static/media/gamecam_g_logo.df1158c6d3024d878a0f.png",
     "index.html": "/gamecamlive/index.html",
     "main.9ea5c57e.css.map": "/gamecamlive/static/css/main.9ea5c57e.css.map",
-    "main.72b2bb00.js.map": "/gamecamlive/static/js/main.72b2bb00.js.map"
+    "main.7797fdb7.js.map": "/gamecamlive/static/js/main.7797fdb7.js.map"
   },
   "entrypoints": [
     "static/css/main.9ea5c57e.css",
-    "static/js/main.72b2bb00.js"
+    "static/js/main.7797fdb7.js"
   ]
 }
